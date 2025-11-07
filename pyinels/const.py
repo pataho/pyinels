@@ -48,6 +48,7 @@ DEVICE_TYPE_DICT = {
     "on_off": "switch",
     "scenes": "scenes",
     "shutters": "shutter",
+    "shutters_v2": "shutter",
     "thermals": "thermals",
     "undefined": "undefined",
 }
